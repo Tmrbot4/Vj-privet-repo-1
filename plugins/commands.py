@@ -27,8 +27,8 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('⤬ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ⤬', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
         ],[
-            InlineKeyboardButton('✪ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url="https://t.me/vj_bot_disscussion"),
-            InlineKeyboardButton('🎭 ʀᴇǫᴜᴇsᴛ 🎭', url='https://t.me/vj_bots')
+            InlineKeyboardButton('⚙ ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ ⚙', url="https://t.me/TMR_update_channel"),
+            InlineKeyboardButton('🎭 ʀᴇǫᴜᴇsᴛ 🎭', url='https://t.me/TMR_movie_request_group')
         ],[
             InlineKeyboardButton('⚙ Jᴏɪɴ ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ ⚙', url=CHNL_LNK)
         ]]
